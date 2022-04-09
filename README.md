@@ -1,6 +1,6 @@
 # Hi, I'm Freddie! 👋
 
-I'm a passionate game developer who loves to create games in Unity. I also have an interest in Web Development and TypeScript
+I'm a passionate game hobbyist who loves to create games in Unity. I also have an interest in Web Development and TypeScript
 
 📚 Currently learning React
 
