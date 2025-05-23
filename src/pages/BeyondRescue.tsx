@@ -24,7 +24,7 @@ export function BeyondRescue() {
                         <iframe
                             width="840"
                             height="472.5"
-                            src="https://www.youtube-nocookie.com/embed/MNRdehuVPGQ?si=2wEBVltqD3F_JK05"
+                            src="https://www.youtube.com/embed/bl6S4Koo_d4?si=ekpGjbVr5EqgMjhc"
                             title="YouTube video player"
                             frameBorder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
