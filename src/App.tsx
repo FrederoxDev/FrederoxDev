@@ -1,4 +1,4 @@
-import icon from "./assets/frederox_1024.jpeg";
+
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import { BeyondRescue } from "./pages/BeyondRescue";
 
