@@ -1,18 +1,11 @@
-
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
-import { BeyondRescue } from "./pages/BeyondRescue";
+import { LandingPage } from "./pages/LandingPage";
 
 function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route index element={
-          <div>
-            <p className="text-2xl text-black">Links:</p>
-            <Link to="/portfolio/beyond-rescue" className="underline text-blue-400">Beyond Rescue</Link>
-          </div>
-        }></Route>
-        <Route path="/portfolio/beyond-rescue" element={<BeyondRescue />} />
+        <Route index element={<LandingPage /> } />
       </Routes>
     </BrowserRouter>   
   );
